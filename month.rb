@@ -1,22 +1,22 @@
 def month_calc(month)
   
-  case month
+  return case month
   when 1
-    puts "January"
+    "January"
   when 2
-    puts "February"
+     "February"
   when 3
-    puts "March"
+     "March"
   when 4
-    puts "April"
+     "April"
   when 5
-    puts "May"
+     "May"
   when 6
-    puts "June"
+     "June"
   when 7
-    puts "July"
+     "July"
   when 8
-    puts "August"
+     "August"
   end
 end
 

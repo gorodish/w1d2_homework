@@ -1,22 +1,22 @@
 def month_short(month)
 
-  case month
+  return case month
   when 1
-    puts "Jan"
+     "Jan"
   when 2
-    puts "Feb"
+     "Feb"
   when 3
-    puts "Mar"
+     "Mar"
   when 4
-    puts "Apr"
+     "Apr"
   when 5
-    puts "May"
+     "May"
   when 6
-    puts "Jun"
+     "Jun"
   when 7
-    puts "Jul"
+     "Jul"
   when 8
-    puts "Aug"
+     "Aug"
   end
 end
 
